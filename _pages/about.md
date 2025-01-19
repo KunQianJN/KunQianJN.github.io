@@ -11,21 +11,21 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 相关成果
 ======
-[1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
+[1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (SCI中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
 
-[2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
+[2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
 
-[3] **Qian Kun**, Wang J S, Zhang S J. STRCFD: Small maneuvering object tracking via improved STRCF and redetection in near infrared videos[J]. IEEE Access, 2024. (中科院3区，Q1) [Website](https://ieeexplore.ieee.org/abstract/document/10379631)
+[3] **Qian Kun**, Wang J S, Zhang S J. STRCFD: Small maneuvering object tracking via improved STRCF and redetection in near infrared videos[J]. IEEE Access, 2024. (SCI中科院3区，Q1) [Website](https://ieeexplore.ieee.org/abstract/document/10379631)
 
-[4] **Qian Kun**, Zhang S, Ma H, et al. SiamIST: Infrared small target tracking based on an improved SiamRPN[J]. Infrared Physics & Technology, 2023, 134: 104920. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S135044952300378X) 
+[4] **Qian Kun**, Zhang S, Ma H, et al. SiamIST: Infrared small target tracking based on an improved SiamRPN[J]. Infrared Physics & Technology, 2023, 134: 104920. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S135044952300378X) 
 
-[5] **Qian Kun**, Rong S H, Cheng K H. Anti-interference small target tracking from infrared dual waveband imagery[J]. Infrared Physics & Technology, 2021, 118: 103882. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449521002541) 
+[5] **Qian Kun**, Rong S H, Cheng K H. Anti-interference small target tracking from infrared dual waveband imagery[J]. Infrared Physics & Technology, 2021, 118: 103882. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449521002541) 
 
-[6] **Qian Kun**, Zhou H, Wang B, et al. Infrared dim moving target tracking via sparsity-based discriminative classifier and convolutional network[J]. Infrared physics & technology, 2017, 86: 103-115. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304522) 
+[6] **Qian Kun**, Zhou H, Wang B, et al. Infrared dim moving target tracking via sparsity-based discriminative classifier and convolutional network[J]. Infrared physics & technology, 2017, 86: 103-115. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304522) 
 
-[7] **Qian Kun**, Zhou H, Qin H, et al. Guided filter and convolutional network based tracking for infrared dim moving target[J]. Infrared Physics & Technology, 2017, 85: 431-442. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449517301652) 
+[7] **Qian Kun**, Zhou H, Qin H, et al. Guided filter and convolutional network based tracking for infrared dim moving target[J]. Infrared Physics & Technology, 2017, 85: 431-442. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449517301652) 
 
-[8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
+[8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
 
 
 
