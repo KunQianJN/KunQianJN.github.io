@@ -13,7 +13,7 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 ======
 一、红外弱小目标跟踪
 ------
-数据集：[UAV410](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304522) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)  
+数据集：[UAV410](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304522) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、[3](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)
 
 [1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (SCI中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
 
