@@ -44,6 +44,12 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 [10] **钱琨**, 王久山, 张首金, 等. 基于侧窗滤波与时空正则化相关滤波的红外弱小目标跟踪 D[J]. 强 激光 与粒 子束, 2023, 35(9). (CSCD) [Website](https://www.researching.cn/ArticlePdf/m00012/2023/35/9/099002.pdf) 
 
+[11] Kunqian, et al. BSiamIST: Butterfly-shaped Siamese network for infrared small UAV tracking （TIP在投）
+
+[12] AQA...
+
+[13] 红外弱小目标跟踪综述
+
 - **国家发明专利**
 
 【1】 钱琨等. 一种红外图像特征提取方法、装置及红外小目标跟踪方法. (已授权)
