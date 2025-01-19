@@ -50,6 +50,11 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
+联系方式
+======
+邮件：kqian@jiangnan.edu.cn
+
+
 
 **Markdown generator**
 
