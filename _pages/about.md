@@ -9,7 +9,7 @@ redirect_from:
 
 Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian University, Xi'an, China in 2012, and his Ph.D. degree in the same field from Xidian University in 2019. In addition, he spent a year at Griffith University in Australia. He is now a lecturer at the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research focuses on machine learning, computer vision, and the tracking of hyperspectral/infrared video. 
 
-相关成果
+科研概况
 ======
 一、红外弱小目标跟踪
 ------
@@ -22,6 +22,7 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 **数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、[3](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)...
 
+**论文**
 [1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (SCI中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
 
 [2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
@@ -40,22 +41,15 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 
 
-Getting started
+教育教学
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. 《机器学习》、《数字图像处理》、《计算机视觉》、《智能优化方法》
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
