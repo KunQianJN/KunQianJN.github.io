@@ -15,6 +15,8 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 [2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
 
+[3] **Qian Kun**, Wang J S, Zhang S J. STRCFD: Small maneuvering object tracking via improved STRCF and redetection in near infrared videos[J]. IEEE Access, 2024. [Website](https://ieeexplore.ieee.org/abstract/document/10379631)
+
 
 Getting started
 ======
