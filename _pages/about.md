@@ -9,6 +9,10 @@ redirect_from:
 
 Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian University, Xi'an, China in 2012, and his Ph.D. degree in the same field from Xidian University in 2019. In addition, he spent a year at Griffith University in Australia. He is now a lecturer at the School of Artificial Intelligence and Computer Science at Jiangnan University, Wuxi, China. His research focuses on machine learning, computer vision, and the tracking of hyperspectral/infrared video. 
 
+2008.09-2018.12 本硕博毕业于西安电子科技大学（导师：[周](https://web.xidian.edu.cn/hxzhou/)）
+
+2017.10-2018.10 在格里菲斯大学（澳大立业）联合培养 （（导师：[Jun](https://web.xidian.edu.cn/hxzhou/)））
+
 科研概况
 ======
 一、红外弱小目标跟踪
