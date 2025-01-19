@@ -20,15 +20,9 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 一、红外弱小目标跟踪
 ------
 
-**简介**：红外弱小目标跟踪属于单目标视频跟踪领域，致力于解决复杂背景下目标的信息弱、尺寸小、干扰、遮挡、丢失等难点
+- **简介**：红外弱小目标跟踪属于单目标视频跟踪领域，致力于解决复杂背景下目标的信息弱、尺寸小、干扰、遮挡、丢失等难点; **模型的稳定性**：由于目标尺寸小，轻微的跟踪框位置偏移会直接导致目标丢失，目标跟踪模型的稳定性较为重要; **发展路线**：传统的DBT、TBD到KCF，再到当前的深度学习模型;-**数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、[3](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)...
 
-**模型的稳定性**：由于目标尺寸小，轻微的跟踪框位置偏移会直接导致目标丢失，目标跟踪模型的稳定性较为重要
-
-**发展路线**：传统的DBT、TBD到KCF，再到当前的深度学习模型
-
-**数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、[3](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)...
-
-**论文**
+- **论文**
 
 [1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (SCI中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
 
@@ -47,7 +41,7 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 [8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
 
 
-**国家发明专利**
+- **国家发明专利**
 
 
 
