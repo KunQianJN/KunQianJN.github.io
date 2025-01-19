@@ -46,6 +46,14 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 - **国家发明专利**
 
+【1】 钱琨等. 一种红外图像特征提取方法、装置及红外小目标跟踪方法. (已授权)
+
+【2】 钱琨等. 基于风格重校准和改进孪生网络的红外弱小目标跟踪方法. (已授权)
+
+【3】 钱琨等. 一种红外弱小目标跟踪方法、系统、设备和介质. (实审)
+
+
+
 
 二、高光谱视频跟踪
 ------
@@ -67,6 +75,38 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 [6] **Qian Kun**,
 
 - **国家发明专利**
+
+【1】 钱琨等. 基于注意力和知识蒸馏的孪生高光谱图像跟踪方法和系统. (已授权)
+
+【2】 钱琨等. 基于四特征融合和基样本更新的高光谱目标跟踪方法. (已授权)
+
+【3】 钱琨等. 特征增强的红外高光谱视频目标跟踪方法、系统和介质. (实审)
+
+【4】 钱琨等. 基于大模型分割的高光谱目标跟踪方法、系统、介质和设备. (实审)
+
+
+二、其余
+------
+
+- **简介**：姿态识别、虾苗技术等; **数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、...
+
+- **论文**
+
+[1] **Qian Kun**, Shen J, Wang S, et al. Recent advances in object tracking using hyperspectral videos: a survey[J]. Multimedia Tools and Applications, 2024, 83(18): 56155-56181.. (SCI中科院4区，Q1) [Website](https://link.springer.com/article/10.1007/s11042-023-17758-9)
+
+[2] **Qian Kun**,
+
+[3] **Qian Kun**,
+
+
+- **国家发明专利**
+
+【1】 钱琨等. 基于标签一致性的MT腿部识别方法、系统、介质和设备. (已授权)
+
+【2】 宋校能、钱琨等. 基于MT与三维残差网络的腿部识别方法、系统、介质和设备. (已授权)
+
+【3】 钱琨等. 基于两级反射光消除网络和感知损失的反射光去除方法. (实审)
+
 
 
 
