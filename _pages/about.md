@@ -19,7 +19,14 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 [4] **Qian Kun**, Zhang S, Ma H, et al. SiamIST: Infrared small target tracking based on an improved SiamRPN[J]. Infrared Physics & Technology, 2023, 134: 104920. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S135044952300378X) 
 
-[5] Qian K, Rong S H, Cheng K H. Anti-interference small target tracking from infrared dual waveband imagery[J]. Infrared Physics & Technology, 2021, 118: 103882. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449521002541) 
+[5] **Qian Kun**, Rong S H, Cheng K H. Anti-interference small target tracking from infrared dual waveband imagery[J]. Infrared Physics & Technology, 2021, 118: 103882. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449521002541) 
+
+[6] **Qian Kun**, Zhou H, Wang B, et al. Infrared dim moving target tracking via sparsity-based discriminative classifier and convolutional network[J]. Infrared physics & technology, 2017, 86: 103-115. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304522) 
+
+[7] **Qian Kun**, Zhou H, Qin H, et al. Guided filter and convolutional network based tracking for infrared dim moving target[J]. Infrared Physics & Technology, 2017, 85: 431-442. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449517301652) 
+
+[8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
+
 
 
 Getting started
