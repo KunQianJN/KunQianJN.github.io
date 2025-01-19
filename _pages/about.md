@@ -15,7 +15,11 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 [2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
 
-[3] **Qian Kun**, Wang J S, Zhang S J. STRCFD: Small maneuvering object tracking via improved STRCF and redetection in near infrared videos[J]. IEEE Access, 2024. [Website](https://ieeexplore.ieee.org/abstract/document/10379631)
+[3] **Qian Kun**, Wang J S, Zhang S J. STRCFD: Small maneuvering object tracking via improved STRCF and redetection in near infrared videos[J]. IEEE Access, 2024. (中科院3区，Q1) [Website](https://ieeexplore.ieee.org/abstract/document/10379631)
+
+[4] **Qian Kun**, Zhang S, Ma H, et al. SiamIST: Infrared small target tracking based on an improved SiamRPN[J]. Infrared Physics & Technology, 2023, 134: 104920. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S135044952300378X) 
+
+[5] Qian K, Rong S H, Cheng K H. Anti-interference small target tracking from infrared dual waveband imagery[J]. Infrared Physics & Technology, 2021, 118: 103882. (中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449521002541) 
 
 
 Getting started
