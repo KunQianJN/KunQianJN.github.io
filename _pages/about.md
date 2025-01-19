@@ -23,6 +23,7 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 **数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、[3](https://www.scidb.cn/en/detail?dataSetId=720626420933459968)...
 
 **论文**
+
 [1] **Qian Kun**, Shen J, Wang S, et al. SiamUF: SiamCar based small UAV tracker using dense U-shape deep features in near infrared videos[J]. Optics and Lasers in Engineering, 2025, 186: 108825. (SCI中科院2区，Q1) [Website](https://www.sciencedirect.com/science/article/abs/pii/S0143816625000120)
 
 [2] **Qian Kun**, Zhu D, Wu Y, et al. TransIST: Transformer based infrared small target tracking using multi-scale feature and exponential moving average learning[J]. Infrared Physics & Technology, 2024: 105674. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449524005589)
@@ -38,6 +39,10 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 [7] **Qian Kun**, Zhou H, Qin H, et al. Guided filter and convolutional network based tracking for infrared dim moving target[J]. Infrared Physics & Technology, 2017, 85: 431-442. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449517301652) 
 
 [8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
+
+
+**国家发明专利**
+
 
 
 
