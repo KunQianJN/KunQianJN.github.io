@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me (关于我)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 - 2017.10-2018.10 在格里菲斯大学（澳大立业）联合培养 (导师：[Jun](https://web.xidian.edu.cn/hxzhou/))
 
-
+- 2020.06-至今 任教于江南大学人工智能与计算机学院 ([Wei](https://web.xidian.edu.cn/hxzhou/))
 
 科研概况
 ======
