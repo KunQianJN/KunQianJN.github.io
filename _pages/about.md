@@ -40,39 +40,43 @@ Kun Qian earned his B.S. degree in Electronic Science and Technology from Xidian
 
 [8] **Qian Kun**, Zhou H, Rong S, et al. Infrared dim-small target tracking via singular value decomposition and improved Kernelized correlation filter[J]. Infrared Physics & Technology, 2017, 82: 18-27. (SCI中科院3区，Q2) [Website](https://www.sciencedirect.com/science/article/abs/pii/S1350449516304832) 
 
+[9] **钱琨**, 周慧鑫, 秦翰林, 等. 基于引导滤波与时空上下文的红外弱小目标跟踪[J]. 光子学报, 2015 (9): 151-156. (EI) [Website](https://www.researching.cn/ArticlePdf/m00009/2015/44/9/0910003.pdf) 
+
+[10] **钱琨**, 王久山, 张首金, 等. 基于侧窗滤波与时空正则化相关滤波的红外弱小目标跟踪 D[J]. 强 激光 与粒 子束, 2023, 35(9). (CSCD) [Website](https://www.researching.cn/ArticlePdf/m00012/2023/35/9/099002.pdf) 
 
 - **国家发明专利**
 
+
+二、高光谱视频跟踪
+------
+
+- **简介**：高光谱视频跟踪属于单目标视频跟踪领域，致力于解决相似表观特征干扰、遮挡等难点; **模型的稳定性**：由于目标尺寸小，轻微的跟踪框位置偏移会直接导致目标丢失，目标跟踪模型的稳定性较为重要; **数据集**：[UAV410](https://github.com/HwangBo94/Anti-UAV410) 、[2](https://www.scidb.cn/en/detail?dataSetId=808025946870251520)、...
+
+- **论文**
+
+[1] **Qian Kun**, Shen J, Wang S, et al. Recent advances in object tracking using hyperspectral videos: a survey[J]. Multimedia Tools and Applications, 2024, 83(18): 56155-56181.. (SCI中科院4区，Q1) [Website](https://link.springer.com/article/10.1007/s11042-023-17758-9)
+
+[2] **Qian Kun**,
+
+[3] **Qian Kun**,
+
+[4] **Qian Kun**,
+
+[5] **Qian Kun**,
+
+[6] **Qian Kun**,
+
+- **国家发明专利**
 
 
 
 教育教学
 ======
 1. 《机器学习》、《数字图像处理》、《计算机视觉》、《智能优化方法》
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 联系方式
 ======
 邮件：kqian@jiangnan.edu.cn
 
 
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
