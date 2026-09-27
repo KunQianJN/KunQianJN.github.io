@@ -1,41 +1,194 @@
-body{
-
-font-family:
-"Microsoft YaHei";
+*{
 
 margin:0;
 
-background:#f4f7fb;
+padding:0;
 
-color:#333;
+box-sizing:border-box;
 
 }
 
 
 
-.header{
+body{
+
+font-family:
+"Microsoft YaHei",
+Arial;
+
+background:#f5f7fa;
+
+color:#333;
+
+line-height:1.8;
+
+}
+
+
+
+/* 导航 */
+
+nav{
+
+height:70px;
 
 background:#0b3d91;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:0 10%;
+
+}
+
+
+
+.logo{
+
+color:white;
+
+font-size:25px;
+
+font-weight:bold;
+
+}
+
+
+
+nav ul{
+
+display:flex;
+
+list-style:none;
+
+}
+
+
+
+nav li{
+
+margin-left:25px;
+
+}
+
+
+
+nav a{
+
+color:white;
+
+text-decoration:none;
+
+}
+
+
+
+/* 首页 */
+
+.hero{
+
+background:
+linear-gradient(
+135deg,
+#0b3d91,
+#1e88e5
+);
 
 color:white;
 
 text-align:center;
 
-padding:60px;
+padding:80px 20px;
 
 }
 
 
 
-.content{
+.profile img{
 
-background:white;
+width:180px;
 
-width:80%;
+height:180px;
+
+border-radius:50%;
+
+object-fit:cover;
+
+border:5px solid white;
+
+}
+
+
+
+.profile h1{
+
+font-size:42px;
+
+margin-top:20px;
+
+}
+
+
+
+
+section{
+
+width:85%;
+
+max-width:1100px;
 
 margin:40px auto;
 
+background:white;
+
 padding:40px;
+
+border-radius:15px;
+
+box-shadow:
+0 5px 20px rgba(0,0,0,0.08);
+
+}
+
+
+
+section h2{
+
+color:#0b3d91;
+
+margin-bottom:20px;
+
+font-size:30px;
+
+}
+
+
+
+
+.cards{
+
+display:flex;
+
+gap:25px;
+
+flex-wrap:wrap;
+
+}
+
+
+
+.card{
+
+flex:1;
+
+min-width:250px;
+
+padding:25px;
+
+background:#f4f7fb;
 
 border-radius:10px;
 
@@ -43,15 +196,44 @@ border-radius:10px;
 
 
 
-h2{
+.card h3{
 
 color:#0b3d91;
 
 }
 
 
-li{
 
-margin:15px;
+
+
+.publication{
+
+margin-bottom:30px;
+
+padding:20px;
+
+border-left:5px solid #0b3d91;
+
+}
+
+
+
+.publication a{
+
+color:#0b3d91;
+
+}
+
+
+
+footer{
+
+text-align:center;
+
+padding:30px;
+
+background:#222;
+
+color:white;
 
 }
